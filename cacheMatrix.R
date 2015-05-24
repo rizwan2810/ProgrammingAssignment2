@@ -1,5 +1,5 @@
 ## Create matrix that takes input values and create an Inverse values in the matrix
-## Function creates the a function that caches the inverse values. 
+## Creates the a function that caches the inverse values. 
 
 # makeCacheMatrix creates a list containing a function to
 # 1. set the value of the matrix
